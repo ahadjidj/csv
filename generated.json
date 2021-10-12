@@ -1,0 +1,242 @@
+[
+  {
+    "_id": "61656f6fb05062a7e790e759",
+    "index": 0,
+    "guid": "0c17ab3d-edbd-4ca3-b63f-6e6032737d27",
+    "isActive": true,
+    "revenue": "2,646.22",
+    "soldItems": 21,
+    "type": "store",
+    "latitude": -32.522088,
+    "longitude": -63.353965,
+    "tags": [
+      "sint",
+      "sunt",
+      "ipsum"
+    ]
+  },
+  {
+    "_id": "61656f6f1a832a9ebd56927f",
+    "index": 1,
+    "guid": "5dbc4a67-61fa-4b3d-9f78-61ad8716e301",
+    "isActive": false,
+    "revenue": "3,927.70",
+    "soldItems": 20,
+    "type": "store",
+    "latitude": -85.504245,
+    "longitude": -177.850183,
+    "tags": [
+      "amet",
+      "incididunt",
+      "in"
+    ]
+  },
+  {
+    "_id": "61656f6fa6729c2dce83aaef",
+    "index": 2,
+    "guid": "a6be166b-f963-479e-a58a-079b4bd0be55",
+    "isActive": false,
+    "revenue": "1,761.90",
+    "soldItems": 35,
+    "type": "online",
+    "latitude": 49.480688,
+    "longitude": -159.619123,
+    "tags": [
+      "pariatur",
+      "consequat",
+      "nostrud"
+    ]
+  },
+  {
+    "_id": "61656f6f8a9f4c56d4e20080",
+    "index": 3,
+    "guid": "c1331687-b488-427e-ab68-237a0c65bd9e",
+    "isActive": false,
+    "revenue": "2,449.39",
+    "soldItems": 25,
+    "type": "online",
+    "latitude": 59.111889,
+    "longitude": -5.007296,
+    "tags": [
+      "qui",
+      "ea",
+      "est"
+    ]
+  },
+  {
+    "_id": "61656f6fdf8729bb042816bb",
+    "index": 4,
+    "guid": "2bf509e0-065b-4cd1-a611-47084943fdd6",
+    "isActive": true,
+    "revenue": "3,418.78",
+    "soldItems": 32,
+    "type": "subscription",
+    "latitude": -43.211414,
+    "longitude": 13.528553,
+    "tags": [
+      "Lorem",
+      "non",
+      "irure"
+    ]
+  },
+  {
+    "_id": "61656f6fe36be7392a08e0ca",
+    "index": 5,
+    "guid": "ca381d5d-c0d3-411f-9060-5a37cbcde48f",
+    "isActive": false,
+    "revenue": "1,745.02",
+    "soldItems": 28,
+    "type": "store",
+    "latitude": 6.993044,
+    "longitude": 98.518904,
+    "tags": [
+      "officia",
+      "enim",
+      "et"
+    ]
+  },
+  {
+    "_id": "61656f6ffbc43b5e8bdf723b",
+    "index": 6,
+    "guid": "bd2bcf08-0fd5-4000-9bf6-473863aaf6f9",
+    "isActive": true,
+    "revenue": "1,550.53",
+    "soldItems": 21,
+    "type": "store",
+    "latitude": -3.288004,
+    "longitude": 104.647186,
+    "tags": [
+      "ea",
+      "dolore",
+      "ad"
+    ]
+  },
+  {
+    "_id": "61656f6fc7030bfe6a8b6b63",
+    "index": 7,
+    "guid": "57d0ec82-92eb-4078-af92-7ad540b3399d",
+    "isActive": true,
+    "revenue": "1,650.62",
+    "soldItems": 36,
+    "type": "store",
+    "latitude": 54.798527,
+    "longitude": 166.867316,
+    "tags": [
+      "quis",
+      "id",
+      "duis"
+    ]
+  },
+  {
+    "_id": "61656f6f7e082692a7cbdbc9",
+    "index": 8,
+    "guid": "f4c6a68a-5423-488f-b0e8-7aa2ffb294df",
+    "isActive": false,
+    "revenue": "2,683.85",
+    "soldItems": 37,
+    "type": "subscription",
+    "latitude": 9.274682,
+    "longitude": 147.72529,
+    "tags": [
+      "amet",
+      "laborum",
+      "deserunt"
+    ]
+  },
+  {
+    "_id": "61656f6feb873e4d840ea3a0",
+    "index": 9,
+    "guid": "cd91d347-a71d-45a5-971e-80c61df4b33f",
+    "isActive": false,
+    "revenue": "1,018.55",
+    "soldItems": 23,
+    "type": "subscription",
+    "latitude": -18.546232,
+    "longitude": -48.427712,
+    "tags": [
+      "irure",
+      "mollit",
+      "veniam"
+    ]
+  },
+  {
+    "_id": "61656f6f084464c74310d03f",
+    "index": 10,
+    "guid": "3551d65b-78a8-4c02-aa72-d24323c4fc84",
+    "isActive": true,
+    "revenue": "2,537.43",
+    "soldItems": 20,
+    "type": "subscription",
+    "latitude": 12.638085,
+    "longitude": -5.694221,
+    "tags": [
+      "irure",
+      "id",
+      "culpa"
+    ]
+  },
+  {
+    "_id": "61656f6f8fa6d7258c167dcd",
+    "index": 11,
+    "guid": "97485bf3-39b9-4181-9df1-236577ab1c34",
+    "isActive": true,
+    "revenue": "2,241.88",
+    "soldItems": 21,
+    "type": "online",
+    "latitude": 74.038345,
+    "longitude": -12.034297,
+    "tags": [
+      "aliquip",
+      "aliquip",
+      "dolore"
+    ]
+  },
+  {
+    "_id": "61656f6faa7244d5b4b8929b",
+    "index": 12,
+    "guid": "88ddcd71-eef0-49e5-a61e-5460baae7ad4",
+    "isActive": false,
+    "revenue": "1,308.63",
+    "soldItems": 33,
+    "type": "online",
+    "latitude": -24.351885,
+    "longitude": -65.311575,
+    "tags": [
+      "nostrud",
+      "consequat",
+      "excepteur"
+    ]
+  },
+  {
+    "_id": "61656f6f211d0bbc8144f870",
+    "index": 13,
+    "guid": "b23145d4-3cb9-404f-a20f-0a6efc74f0d1",
+    "isActive": true,
+    "revenue": "3,449.63",
+    "soldItems": 37,
+    "type": "store",
+    "latitude": -55.499375,
+    "longitude": -32.589226,
+    "tags": [
+      "cupidatat",
+      "voluptate",
+      "voluptate"
+    ]
+  },
+  {
+    "_id": "61656f6fa0c263c63c2e9d87",
+    "index": 14,
+    "guid": "086fe41d-0afb-41a6-ae66-39795711d386",
+    "isActive": true,
+    "revenue": "1,405.35",
+    "soldItems": 34,
+    "type": "online",
+    "latitude": -1.015358,
+    "longitude": 173.834597,
+    "tags": [
+      "ea",
+      "ipsum",
+      "labore"
+    ]
+  }
+]
