@@ -1,7 +1,7 @@
 Host,Errors
-k8s-node-main,719
-k8s-node-gateway,247
-Proxy,100
+k8s-node-main,19
+k8s-node-gateway,8
+Proxy,20
 Gateway,36
 Dev-Server,28
-UAT-Server,25
+UAT-Server,5
