@@ -1,12 +1,11 @@
 Service,Errors
-Plan Service,246
-WebPortal,45
-MobileApi,26
-Tower-Dallas,24
-Tower-Irvine,23
-Promo Service,22
-Tower-Houston,21
-Tower-Stockton,20
-Tower-Seattle,20
-Tower-Riverside,12
-Frontend,25
+Proxy-West,719
+Plan Service,247
+MobileApi,100
+WebPortal,36
+Promo Service,28
+Tower-Riverside,25
+Tower-Portland,22
+Tower-Irvine,19
+Tower-Dallas,16
+Tower-Phoenix,15
